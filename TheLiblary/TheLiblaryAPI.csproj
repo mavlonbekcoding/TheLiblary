@@ -13,8 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Service\Interfaces\" />
-    <Folder Include="Service\Services\" />
+    <Folder Include="Domain\Commons\" />
   </ItemGroup>
 
 </Project>
